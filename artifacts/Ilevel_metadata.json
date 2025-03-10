@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "studentContract",
+						"type": "address"
+					}
+				],
+				"name": "completeLevel",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"EncodeCTF.sol": "Ilevel"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"EncodeCTF.sol": {
+			"keccak256": "0x3568ce291a4dbeca7386f0795f620dd5ab062acc21612042c925c58333f9ac06",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://95e0f2b764c26216ab839308db202cf0bc87c02580f8e550380d83c9f84310eb",
+				"dweb:/ipfs/QmURcGMbZU2tNLg55wzLWGj3hcK1KBGZ17WH5oXy4cM3hh"
+			]
+		}
+	},
+	"version": 1
+}
