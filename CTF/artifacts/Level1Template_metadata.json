@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[2][3]",
+						"name": "firstArray",
+						"type": "uint256[2][3]"
+					},
+					{
+						"internalType": "uint256[2][3]",
+						"name": "secondArray",
+						"type": "uint256[2][3]"
+					}
+				],
+				"name": "solution",
+				"outputs": [
+					{
+						"internalType": "uint256[2][3]",
+						"name": "finalArray",
+						"type": "uint256[2][3]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CTF/CTFLevel1.sol": "Level1Template"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CTF/CTFLevel1.sol": {
+			"keccak256": "0xc179f2247c24ff4c7a358512553a5de7efcec77b26e8327350fd70b604133574",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://99bca6e7c9a54b9115fd8ab9a6d7c77bdc5e9aaafb3f7e2269a9b96c2f8c3c67",
+				"dweb:/ipfs/QmaofkochBCgtfdjhp2YacypJCzXXenAZZokEvQm6jsT4L"
+			]
+		}
+	},
+	"version": 1
+}
