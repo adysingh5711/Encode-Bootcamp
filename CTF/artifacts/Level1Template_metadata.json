@@ -9,12 +9,12 @@
 				"inputs": [
 					{
 						"internalType": "uint256[2][3]",
-						"name": "firstArray",
+						"name": "x",
 						"type": "uint256[2][3]"
 					},
 					{
 						"internalType": "uint256[2][3]",
-						"name": "secondArray",
+						"name": "y",
 						"type": "uint256[2][3]"
 					}
 				],
@@ -58,11 +58,11 @@
 	},
 	"sources": {
 		"CTF/CTFLevel1.sol": {
-			"keccak256": "0xc179f2247c24ff4c7a358512553a5de7efcec77b26e8327350fd70b604133574",
+			"keccak256": "0x2aff7ccc1cf6bcba8d124d84378d9dc58fff764691791e5c3306e6f32d6521c3",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://99bca6e7c9a54b9115fd8ab9a6d7c77bdc5e9aaafb3f7e2269a9b96c2f8c3c67",
-				"dweb:/ipfs/QmaofkochBCgtfdjhp2YacypJCzXXenAZZokEvQm6jsT4L"
+				"bzz-raw://0d577909b2d3c63732abcd5d4c578ff11a7302df41ffa4512c7823ba57fb46fd",
+				"dweb:/ipfs/QmTDqyWTF3Wy1QU5PtvaJCthvpdw7ofdSRvRU7rkW57HAq"
 			]
 		}
 	},
