@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[10]",
+						"name": "unsortedArray",
+						"type": "uint256[10]"
+					}
+				],
+				"name": "solution",
+				"outputs": [
+					{
+						"internalType": "uint256[10]",
+						"name": "sortedArray",
+						"type": "uint256[10]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CTF/CTFLevel2.sol": "Level2Template"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CTF/CTFLevel2.sol": {
+			"keccak256": "0x48ceb470d1ce8177846ec4606d88e14e77e4d534d39bd60b56535a2b150e1160",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://7138fb941207fa51aeea1f563dc70a9a93f095313af50f98ad3a63eced414e34",
+				"dweb:/ipfs/QmeDHy8hrRqAVVbAp3RmGnmiPMsxpZPXRkWEUFHFJhN5pf"
+			]
+		}
+	},
+	"version": 1
+}
